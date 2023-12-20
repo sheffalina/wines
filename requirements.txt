@@ -1,0 +1,8 @@
+streamlit
+pandas
+sklearn
+seaborn
+matplotlib
+torch
+base64
+img
